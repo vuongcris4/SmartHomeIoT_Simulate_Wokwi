@@ -1,1 +1,0 @@
-# SmartHomeIoT_Simulate_Wokwi
